@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/lato/Lato-Regular.ttf");
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+h1 {
+    font-family: "Lato";
+    font-style: normal;
+    font-size: 20vh;
+
+    text-align: center;
+}
